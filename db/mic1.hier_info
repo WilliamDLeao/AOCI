@@ -1,0 +1,15 @@
+|mic1
+00 <= inst.DB_MAX_OUTPUT_PORT_TYPE
+10 => inst4.IN0
+10 => inst1.IN0
+10 => inst7.IN0
+10 => inst3.IN0
+11 => inst5.IN0
+11 => inst6.IN0
+11 => inst2.IN1
+11 => inst3.IN1
+01 <= inst1.DB_MAX_OUTPUT_PORT_TYPE
+02 <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+03 <= inst3.DB_MAX_OUTPUT_PORT_TYPE
+
+
